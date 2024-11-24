@@ -1,0 +1,1 @@
+copy employee_details from 'D:/SQL Data/Employee_Details.csv' delimiter ',' csv header;
